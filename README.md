@@ -32,3 +32,11 @@ For each drug category of primary substance associated with admission, how many/
 # Conclusion
 
 The database developed for this project has potential for further research into identifying target populations for substance use initiatives and developing large-scale programs and policies to address substance use crises at multiple levels, from prevention to post-admission support systems. By diving deeper into what demographics are most at-risk for being admitted to treatment facilities for certain substances, preventative programs can be directed towards those communities. Another worthwhile way to make use of this database is by creating databases for previous years that TEDSA data was collected and identifying trends for predictive purposes, potentially yielding more insight into what we can expect of substance use crises in years to come.
+
+---
+
+# Citations
+
+Substance Abuse and Mental Health Services Administration. (2025). Treatment Episode Data Set – Admissions (TEDS-A), 2023 [Data set]. U.S. Department of Health and Human Services, Substance Abuse and Mental Health Services Administration. https://www.samhsa.gov/data/data-we-collect/teds/datafiles
+
+Substance Abuse and Mental Health Services Administration. (2025). Treatment Episode Data Set Admissions (TEDS-A), 2023: Public use file (PUF) codebook. U.S. Department of Health and Human Services. https://www.samhsa.gov/data/data-we-collect/teds/datafiles
